@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>TextEditRect.qml</file>
+        <file>StylishButton.qml</file>
+    </qresource>
+</RCC>
